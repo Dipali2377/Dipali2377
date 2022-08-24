@@ -59,15 +59,15 @@
 <br/>
 
 <div>
-  <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=Dipali-art&show_icons=true&theme=midnight-purple" />
-  <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipali-art&layout=compact&theme=midnight-purple" />
+  <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=Dipali2377&show_icons=true&theme=midnight-purple" />
+  <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipali2377&layout=compact&theme=midnight-purple" />
 </div>
  <br />
-<img src="https://activity-graph.herokuapp.com/graph?username=Dipali-art&theme=rogue" alt="activitygraph" /> 
+<img src="https://activity-graph.herokuapp.com/graph?username=Dipali2377&theme=rogue" alt="activitygraph" /> 
 <br />
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Dipali-art&theme=vision-friendly-dark" alt=""/></p>
-<p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=Dipali-art&column=7&theme=vue" alt=""/> </p>
-<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dipali-art&theme=tokyonight" alt="summarycard"/> </p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Dipali2377&theme=vision-friendly-dark" alt=""/></p>
+<p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=Dipali2377&column=7&theme=vue" alt=""/> </p>
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dipali2377&theme=tokyonight" alt="summarycard"/> </p>
 <hr />
 <h3 align="center">
  Show some ❤️ by starring some of the repositories!
@@ -75,7 +75,7 @@
 <br>
 <h3 align="center"> 
   Visitor count <br>
-  <img src="https://profile-counter.glitch.me/Dipali-art/count.svg" />
+  <img src="https://profile-counter.glitch.me/Dipali2377/count.svg" />
 </h3>
 
 
