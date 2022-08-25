@@ -59,11 +59,11 @@
 <br/>
 
 <div>
-  <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=Dipali2377&show_icons=true&theme=midnight-purple" />
-  <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipali2377&layout=compact&theme=midnight-purple" />
+  <img width="54%"  src="https://github-readme-stats.vercel.app/api?username=Dipali2377&show_icons=true&theme=midnight-purple" />
+  <img width="45%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipali2377&layout=compact&theme=midnight-purple" />
 </div>
  <br />
-<img src="https://activity-graph.herokuapp.com/graph?username=Dipali2377&theme=rogue" alt="activitygraph" /> 
+<p align="center"><img width="80%" src="https://activity-graph.herokuapp.com/graph?username=Dipali2377&theme=rogue" alt="activitygraph" /> </p>
 <br />
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Dipali2377&theme=vision-friendly-dark" alt=""/></p>
 <p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=Dipali2377&column=7&theme=vue" alt=""/> </p>
