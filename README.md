@@ -54,7 +54,6 @@
 
 <h2>📊 Github Stats</h2>
 <br/>
-
 <div>
   <img width="54%"  src="https://github-readme-stats.vercel.app/api?username=Dipali2377&show_icons=true&theme=midnight-purple" />
   <img width="45%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipali2377&layout=compact&theme=midnight-purple" />
