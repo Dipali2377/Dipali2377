@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there! I'm <span style="color: #b440e2"> Dipali Magar.. </span><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
  <br>
- <h2 align="center">Programming is the art of telling another human being what one wants the computer to do.</h2>
+ <h3 align="center">"Programming is the art of telling another human being what one wants the computer to do."-Donald Ervin Knuth</h3>
  
  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=b440e2&size=24&width=500&lines=Currently+Learning+Full-Stack+Web+Development;Open-Source+Developer;Nice+to+meet+you...)
  <img  src="https://akashsurve2377.netlify.app/static/media/output-onlinegiftools.0137dac1.gif" height="100px" align="right" />
