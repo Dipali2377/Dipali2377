@@ -11,7 +11,7 @@
 
 <img  src="https://akashsurve.web.app/static/media/about.aee0f771fbfc1e7b8fa8.png" height="280px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Website](#)**
+- 🙋‍♂️ All about me is at **[My Website](https://portfolio-dipali2377.vercel.app/)**
 
 - 🔭 I’m currently working on `Something Intresting`.
 
@@ -49,7 +49,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/dipali-magar-9399151b1/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
   <a title="dipalim680@gmail.com" href="mailto:dipalim680@gmail.com" target="blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="50px"   alt="mail-me" /></a>
-  <a href="#" target="_blank"><img align="center" src="https://img.icons8.com/fluency/2x/domain.png"  width="60px" alt="portfolio" /></a>
+  <a href="https://portfolio-dipali2377.vercel.app/" target="_blank"><img align="center" src="https://img.icons8.com/fluency/2x/domain.png"  width="60px" alt="portfolio" /></a>
 
 </p>
 
