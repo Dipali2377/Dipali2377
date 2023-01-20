@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there! I'm <span style="color: #b440e2"> Dipali Magar.. </span><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+<h1 align="center">Hi there! I'm <span style="color: #b440e2"> Dipali Magar... </span><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
  <br>
  <h3 align="left">"Programming is the art of telling another human being what one wants the computer to do."<br>-Donald Ervin Knuth</h3>
  
@@ -7,7 +7,7 @@
  <img  src="https://akashsurve2377.netlify.app/static/media/output-onlinegiftools.0137dac1.gif" height="100px" align="right" />
   <br>
   
-   ## 👨🏻‍💻 About Me:
+   ## 👨🏻‍💻 About Me :
 
 <img  src="https://akashsurve.web.app/static/media/about.aee0f771fbfc1e7b8fa8.png" height="280px" align="right" />
 
