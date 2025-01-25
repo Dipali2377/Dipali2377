@@ -11,7 +11,7 @@
 
 <img  src="https://akashsurve.web.app/static/media/about.aee0f771fbfc1e7b8fa8.png" height="280px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Website](https://portfolio-dipali2377.vercel.app/)**
+- 🙋‍♂️ All about me is at **[My Website](https://dipali-magar-portfolio.netlify.app/)**
 
 - 🔭 I’m currently working on `Something Intresting`.
 
