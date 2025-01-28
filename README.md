@@ -54,14 +54,25 @@
 </p>
 
 <h2>📊 Github Stats</h2>
-<br/>
-<div>
-  <img width="54%"  src="https://github-readme-stats.vercel.app/api?username=Dipali2377&show_icons=true&theme=midnight-purple" />
-  <img width="45%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipali2377&layout=compact&theme=midnight-purple" />
+<br />
+<div align="center">
+  <!-- GitHub Stats -->
+  <img width="54%" height="200px" src="https://github-readme-stats.vercel.app/api?username=Dipali2377&show_icons=true&theme=midnight-purple" alt="GitHub Stats" />
+  
+  <!-- Top Languages -->
+  <img width="45%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipali2377&layout=compact&theme=midnight-purple" alt="Top Languages" />
 </div>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Dipali2377&theme=vision-friendly-dark" alt=""/></p>
-<p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=Dipali2377&column=7&theme=vue" alt=""/> </p>
-<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dipali2377&theme=tokyonight" alt="summarycard"/> </p>
+
+<!-- GitHub Trophies -->
+<p align="center">
+  <img height="200px" src="https://github-profile-trophy.vercel.app/?username=Dipali2377&column=7&theme=vue" alt="GitHub Trophies" />
+</p>
+
+<!-- Profile Summary -->
+<p align="center">
+  <img height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dipali2377&theme=tokyonight" alt="Profile Summary" />
+</p>
+
 <hr />
 <h3 align="center">
  Show some ❤️ by starring some of the repositories!
